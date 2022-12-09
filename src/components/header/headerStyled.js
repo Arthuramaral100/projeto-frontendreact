@@ -89,6 +89,7 @@ export const Search = styled.div`
     font-size: 20px;
     border: 1px solid white;
     border-left: 0.5px solid gray;
+    border-radius: 0 5px 5px 0;
   }
   @media screen and (max-device-width: 1000px){
       width: 80%;
@@ -98,22 +99,23 @@ export const Search = styled.div`
 
 export const BotaoCarrinho = styled.button`
     cursor: pointer;
-    width: 65px;
-    height: 45px;
+    width: 90px;
+    height: 65px;
     border: 1px solid white;
-    border-radius: 0 5px 5px 0;
+    border-radius: 100%;
     background-color: white;
     display: flex;
     align-items: center;
     justify-content: center;
     padding-right: 3px;
+    margin-left: 5px;
     :active {
-      width: 64px;
-      height: 44px;
+      width: 89px;
+      height: 64px;
     }
     @media screen and (max-device-width: 730px){
-      width: 60px;
-      height: 45px;
+      width: 90px;
+      height: 65px;
 }
 `
 
@@ -122,8 +124,8 @@ export const ImagemCarrinho = styled.img`
   height: 33px;
   cursor: pointer;
   @media screen and (max-device-width: 730px){
-      width: 30px;
-      height: 30px;
+      width: 33px;
+      height: 33px;
 }
 `;
 
