@@ -1,0 +1,185 @@
+
+[
+    {
+        "id": 1,
+        "nome": "POP! Grogu (Baby Yoda)",
+        "preco": 200,
+        "imagem": "https://geekfanaticos.fbitsstatic.net/img/p/funko-pop-the-child-baby-yoda-368-the-mandalorian-star-wars-71458/257943.jpg?w=450&h=450&v=no-change&qs=ignore",
+        "categoria":["Tudo", "Jedi"]
+    },
+    {
+        "id": 2,
+        "nome": "Lightsaber azul",
+        "preco": 180,
+        "imagem": "https://images.fun.com/products/9284/1-2/star-wars-luke-skywalker-toy-lightsaber.jpg",
+        "categoria":["Tudo", "Jedi"]
+    },
+    {
+        "id":3,
+        "nome": "Lightsaber verde",
+        "preco": 180,
+        "imagem": "https://images.fun.com/products/8573/1-2/qui-gon-jinn-lightsaber-accessory.jpg",
+        "categoria":["Tudo", "Jedi"]
+    },
+    {
+        "id":4,
+        "nome": "Lightsaber vermelho",
+        "preco": 220,
+        "imagem": "https://images.fun.com/products/33912/1-2/star-wars-episode-7-kylo-ren-lightsaber-accessory.jpg",
+        "categoria":["Tudo", "Sith"]
+    },
+    {
+        "id":5,
+        "nome": "Millennium Falcon - Metal",
+        "preco": 320,
+        "imagem": "https://geekfanaticos.fbitsstatic.net/img/p/millennium-falcon-kit-de-montar-de-metal-star-wars-metal-earth-fascinations-72876/259363.jpg?w=450&h=450&v=no-change&qs=ignore",
+        "categoria":["Tudo", "Jedi", "Rebeldes"]
+    },
+    {
+        "id":6,
+        "nome": "POP! Kylo Ren",
+        "preco": 250,
+        "imagem": "https://geekfanaticos.fbitsstatic.net/img/p/funko-pop-kylo-ren-308-the-rise-of-skywalker-a-ascencao-skywalker-star-wars-70215/256698-2.jpg?w=430&h=430&v=no-change&qs=ignore",
+        "categoria":["Tudo", "Sith"]
+    },
+    {
+        "id":7,
+        "nome": "POP! Yoda",
+        "preco": 170,
+        "imagem": "https://geekfanaticos.fbitsstatic.net/img/p/funko-pop-yoda-02-star-wars-71127/257612.jpg?w=370&h=370&v=no-change&qs=ignore",
+        "categoria":["Tudo", "Jedi"]
+    },
+    {
+        "id":8,
+        "nome": "POP! Darth Vader",
+        "preco": 260,
+        "imagem": "https://geekfanaticos.fbitsstatic.net/img/p/funko-pop-darth-vader-electronic-343-star-wars-71418/257903.jpg?w=450&h=450&v=no-change&qs=ignore",
+        "categoria":["Tudo","Sith"]
+    },
+    {
+        "id":9,
+        "nome": "Estrela da Morte - Metal",
+        "preco": 400,
+        "imagem": "https://geekfanaticos.fbitsstatic.net/img/p/death-star-estrela-da-morte-kit-de-montar-de-metal-star-wars-metal-earth-fascinations-72868/259355.jpg?w=450&h=450&v=no-change&qs=ignore",
+        "categoria":["Tudo", "Sith"]
+    },
+    {
+        "id":10,
+        "nome": "POP! Luke Skywalker & Yoda",
+        "preco": 270,
+        "imagem": "https://geekfanaticos.fbitsstatic.net/img/p/funko-pop-luke-skywalker-e-yoda-363-star-wars-71521/258006.jpg?w=450&h=450&v=no-change&qs=ignore",
+        "categoria":["Tudo", "Jedi", "Rebeldes"]
+    },
+    {
+        "id":11,
+        "nome": "POP! Han Solo",
+        "preco": 180,
+        "imagem": "https://images-americanas.b2w.io/produtos/3394600770/imagens/funko-pop-star-wars-solo-han-solo-multicolor/3394600770_1_xlarge.jpg",
+        "categoria":["Tudo", "Rebeldes"]
+    },
+    {
+        "id":12,
+        "nome": "POP! Princesa Leia",
+        "preco": 180,
+        "imagem": "https://geekfanaticos.fbitsstatic.net/img/p/funko-pop-leia-bespin-362-star-wars-71405/257890.jpg?w=400&h=400&v=no-change&qs=ignore",
+        "categoria":["Tudo", "Rebeldes"]
+    },
+    {
+        "id":13,
+        "nome":"X-Wing Star Fighter - Metal",
+        "preco": 200,
+        "imagem": "https://geekfanaticos.fbitsstatic.net/img/p/x-wing-star-fighter-kit-de-montar-de-metal-star-wars-metal-earth-fascinations-72871/259358.jpg?w=450&h=450&v=no-change&qs=ignore",
+        "categoria":["Tudo", "Rebeldes"]
+    }, 
+    {
+        "id":14,
+        "nome": "POP! Rey",
+        "preco": 200,
+        "imagem": "https://geekfanaticos.fbitsstatic.net/img/p/funko-pop-rey-307-star-wars-70143/256626.jpg?w=450&h=450&v=no-change&qs=ignore",
+        "categoria":["Tudo", "Jedi", "Rebeldes"]
+    },
+    {
+        "id":15,
+        "nome":"POP! Imperador Palpatine",
+        "preco": 240,
+        "imagem": "https://geekfanaticos.fbitsstatic.net/img/p/funko-pop-emperor-palpatine-433-star-wars-72444/258931.jpg?w=450&h=450&v=no-change&qs=ignore",
+        "categoria":["Tudo", "Sith"]
+    },
+    {
+        "id":16,
+        "nome": "POP! Líder Supremo Snoke",
+        "preco": 180,
+        "imagem": "https://geekfanaticos.fbitsstatic.net/img/p/funko-pop-supreme-leader-snoke-199-os-ultimos-jedi-star-wars-71049/257534.jpg?w=450&h=450&v=no-change&qs=ignore",
+        "categoria":["Tudo", "Sith"]
+    },
+    {
+        "id":17,
+        "nome":"Imperial TIE Fighter - Metal",
+        "preco": 200,
+        "imagem": "https://geekfanaticos.fbitsstatic.net/img/p/imperial-tie-fighter-kit-de-montar-de-metal-star-wars-metal-earth-fascinations-72872/259359.jpg?w=480&h=480&v=no-change&qs=ignore",
+        "categoria":["Tudo", "Sith"]
+    },
+    {
+        "id":18,
+        "nome":"POP! Dark Rey",
+        "preco":220,
+        "imagem":"https://geekfanaticos.fbitsstatic.net/img/p/funko-pop-dark-rey-359-star-wars-71448/257933.jpg?w=450&h=450&v=no-change&qs=ignore",
+        "categoria":["Tudo", "Sith", "Jedi"]
+    },
+    {
+        "id":19,
+        "nome": "POP! Stormtrooper",
+        "preco": 200,
+        "imagem":"https://geekfanaticos.fbitsstatic.net/img/p/funko-pop-stormtrooper-05-star-wars-71433/257918.jpg?w=450&h=450&v=no-change&qs=ignore",
+        "categoria":["Tudo", "Sith"]
+    },
+    {
+        "id":20,
+        "nome":"Darth Vader's TIE Fighter",
+        "preco": 250,
+        "imagem":"https://geekfanaticos.fbitsstatic.net/img/p/darth-vaders-tie-fighter-kit-de-montar-de-metal-star-wars-metal-earth-fascinations-72874/259361.jpg?w=450&h=450&v=no-change&qs=ignore",
+        "categoria":["Tudo","Sith"]
+    },
+    {
+        "id":21,
+        "nome": "Star Destroyer - Metal",
+        "preco": 320,
+        "imagem":"https://geekfanaticos.fbitsstatic.net/img/p/imperial-star-destroyer-kit-de-montar-de-metal-star-wars-metal-earth-fascinations-72873/259360.jpg?w=450&h=450&v=no-change&qs=ignore",
+        "categoria":["Tudo", "Sith"]
+    },
+    {
+        "id":22,
+        "nome":"C3PO & R2-D2 - Metal",
+        "preco": 280,
+        "imagem":"https://geekfanaticos.fbitsstatic.net/img/p/c-3po-e-r2-d2-kit-de-montar-de-metal-deluxe-star-wars-metal-earth-fascinations-72877/259364.jpg?w=450&h=450&v=no-change&qs=ignore",
+        "categoria":["Tudo","Rebeldes"]
+    },
+    {
+        "id":23,
+        "nome": "Andador AT-ST - Metal",
+        "preco": 200,
+        "imagem":"https://geekfanaticos.fbitsstatic.net/img/p/andador-at-st-kit-de-montar-de-metal-star-wars-metal-earth-fascinations-72869/259356.jpg?w=450&h=450&v=no-change&qs=ignore",
+        "categoria":["Tudo","Sith"]
+    },
+    {
+        "id":24,
+        "nome":"POP! Poe Dameron",
+        "preco": 180,
+        "imagem":"https://geekfanaticos.fbitsstatic.net/img/p/funko-pop-poe-dameron-192-os-ultimos-jedi-star-wars-71045/257530.jpg?w=450&h=450&v=no-change&qs=ignore",
+        "categoria":["Tudo", "Rebeldes"]
+    },
+    {
+        "id":25,
+        "nome":"POP! Jannah",
+        "preco":180,
+        "imagem":"https://geekfanaticos.fbitsstatic.net/img/p/funko-pop-jannah-315-star-wars-the-rise-of-skywalker-a-ascencao-skywalker-70145/256628.jpg?w=450&h=450&v=no-change&qs=ignore",
+        "categoria":["Tudo", "Rebeldes"]
+    },
+    {
+        "id":26,
+        "nome":"POP! Finn",
+        "preco":180,
+        "imagem":"https://geekfanaticos.fbitsstatic.net/img/p/funko-pop-finn-309-the-rise-of-skywalker-a-ascencao-skywalker-star-wars-70146/256629-2.jpg?w=450&h=450&v=no-change&qs=ignore",
+        "categoria":["Tudo","Rebeldes"]
+    }
+]
